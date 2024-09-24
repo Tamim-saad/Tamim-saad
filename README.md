@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamim-saad" alt="tamim-saad" /></a> </p>
+
 - 🔭 I’m currently working on **Behavior Hypothesis of Pedestrian**
 
 - 👨‍💻 All of my projects are available at [https://tamimhasansaad.netlify.app/](https://tamimhasansaad.netlify.app/)
