@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamim Hasan Saad</h1>
+<h2 align="center">Currently Studying Computer Science and Engineering(CSE) at Bangladesh University of Engineering and Technology(BUET)</h2>
 <h3 align="center">Passionate problem solver,Full stack web developer,ML enthusiasts</h3>
 
 - 🔭 I’m currently working on **Behavior Hypothesis of Pedestrian**
