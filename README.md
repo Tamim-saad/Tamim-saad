@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamim Hasan Saad</h1>
-<!-- <h2 align="center">Currently Studying Computer Science and Engineering(CSE) at Bangladesh University of Engineering and Technology(BUET)</h2> -->
-<h3 align="center">Studying CSE@BUET, Passionate problem solver, Full stack web developer, ML enthusiasts</h3>
+<h3 align="center">Passionate problem solver,Full stack web developer,ML enthusiasts</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
 - 🔭 I’m currently working on **Behavior Hypothesis of Pedestrian**
 
