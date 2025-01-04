@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamim-saad" alt="tamim-saad" /></a> </p>
+
 - 🔭 I’m currently working on **Behavior Hypothesis of Pedestrian** and [Learnathon 3.0 MERN Project](https://github.com/Learnathon-By-Geeky-Solutions/bytefixers)
 
 - 🌱 I’m currently learning **ML, Backend, Advanced-Algorithms**
