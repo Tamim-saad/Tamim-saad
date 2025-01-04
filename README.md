@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamim Hasan Saad</h1>
 <h3 align="center">Passionate problem solver,Full stack web developer,ML enthusiasts</h3>
 
+![Analytics](https://www.googletagmanager.com/gtag/js?id=G-ZYPZMS9L1N)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
 - 🔭 I’m currently working on **Behavior Hypothesis of Pedestrian**
