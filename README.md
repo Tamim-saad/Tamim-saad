@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim-saad&show_icons=true&locale=en&layout=compact" alt="tamim-saad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamim-saad&show_icons=true&locale=en" alt="tamim-saad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-saad&" alt="tamim-saad" /></p>
