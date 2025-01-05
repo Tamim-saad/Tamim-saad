@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Behavior Hypothesis of Pedestrian** and [Learnathon 3.0 MERN Project](https://github.com/Learnathon-By-Geeky-Solutions/bytefixers)
 
-- 🌱 I’m currently learning **ML, Backend, Advanced-Algorithms**
+- 🌱 I’m currently learning **ML, NLP, Backend, Advanced-Algorithms**
 - 👨‍💻 All of my projects are available at [https://tamimhasansaad.netlify.app/](https://tamimhasansaad.netlify.app/)
 
 - 📫 How to reach me **tamimsaad1812@gmail.com**
