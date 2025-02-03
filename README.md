@@ -13,7 +13,7 @@
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamim-hasan-saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamim-hasan-saad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@tamimhasansaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@tamimhasansaad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TamimHasanSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@TamimHasanSaad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tamimhasansaad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tamimhasansaad4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tamim_saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamim_saad" height="30" width="40" /></a>
 </p>
