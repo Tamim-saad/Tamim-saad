@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
-- 🔭 I’m currently working on [Learnathon 3.0 MERN Project](https://github.com/Learnathon-By-Geeky-Solutions/bytefixers)
+- 🔭 I’m currently working in Pridesys IT as a Software Engineer Trainee
 
-- 🌱 I’m currently learning **ML, NLP, Backend, Advanced-Algorithms**
+- 🌱 I’m currently learning **Golang, ML, SpringBoot, Advanced-Algorithms**
 - 👨‍💻 All of my projects are available at [https://tamimhasansaad.netlify.app/](https://tamimhasansaad.netlify.app/)
 
 - 📫 How to reach me **tamimsaad1812@gmail.com**
