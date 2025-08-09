@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamim Hasan Saad</h1>
-<h3 align="center">Passionate problem solver,Full stack web developer,ML enthusiasts</h3>
+<h3 align="center">Software Engineer Trainee at Pridesys IT, Devops enthusiasts, Full stack web developer, Passionate problem solver, ML enthusiasts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
