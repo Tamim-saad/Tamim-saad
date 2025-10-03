@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
 
-<-- - I’m currently working as a **Software Engineer Trainee at Pridesys IT** -->
+<!-- - I’m currently working as a **Software Engineer Trainee at Pridesys IT** -->
 
 - I’m currently learning **Golang, Devops, ML**
 - All of my projects are available at [https://tamimhasansaad.netlify.app/](https://tamimhasansaad.netlify.app/)
