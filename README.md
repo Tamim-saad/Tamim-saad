@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamim Hasan Saad</h1>
+<h1 align="center">Hi, I'm Tamim Hasan Saad</h1>
 <h3 align="center">Full Stack Software Developer, Devops & ML enthusiasts, Passionate problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-saad&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-saad" /> </p>
