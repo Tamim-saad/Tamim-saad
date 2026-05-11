@@ -6,7 +6,7 @@
 <!-- - I’m currently working as a **Software Engineer Trainee at Pridesys IT** -->
 
 - I’m currently learning **System Design & DL**
-- All of my projects are available at [https://tamimhasansaad.netlify.app/](https://tamimhasansaad.netlify.app/)
+- All of my projects are available at [linkedin.com/in/tamim-hasan-saad/](https://www.linkedin.com/in/tamim-hasan-saad/)
 
 - How to reach me **tamimsaad1812@gmail.com**
 
